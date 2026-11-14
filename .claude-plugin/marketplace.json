@@ -1,0 +1,12 @@
+{
+  "name": "claude-themes",
+  "description": "Animated backdrop themes for the Claude Code desktop app",
+  "owner": { "name": "T3NSA1" },
+  "plugins": [
+    {
+      "name": "night-room",
+      "source": "./night-room",
+      "description": "Dark theme: a coder's night room with orange pixel critters"
+    }
+  ]
+}

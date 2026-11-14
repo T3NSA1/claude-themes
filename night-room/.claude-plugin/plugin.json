@@ -1,0 +1,9 @@
+{
+  "name": "night-room",
+  "version": "0.3.0",
+  "description": "Dark theme: a coder's night room with orange pixel critters that react to Claude's work",
+  "author": { "name": "T3NSA1" },
+  "license": "MIT",
+  "homepage": "https://github.com/T3NSA1/claude-themes",
+  "types": "./types/index.d.ts"
+}
